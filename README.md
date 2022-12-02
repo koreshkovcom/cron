@@ -12,3 +12,7 @@
 <h1>Cron Service</h1>
 
 </div>
+
+## About
+
+**Cron Service** creates jobs on a time-based schedule on [Swarm](https://docs.docker.com/engine/swarm/) with a dedicated service in a distributed manner that configures itself automatically and dynamically through labels and Docker API.
